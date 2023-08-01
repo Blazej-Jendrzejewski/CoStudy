@@ -1,4 +1,4 @@
-# University Management System - README
+# CoStudy - University Management System - README
 
 ## Description
 The University Management System is a web application designed to facilitate administrative tasks in academic institutions. The application is built using Java, Spring, HTML, CSS, JavaScript, Maven, Thymeleaf, and Bootstrap.
